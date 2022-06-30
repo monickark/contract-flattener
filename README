@@ -1,0 +1,2 @@
+npm i @poanet/solidity-flattener
+npm start "path_to_not_flat_contract_definition_file.sol"
